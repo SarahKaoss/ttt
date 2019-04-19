@@ -6,7 +6,8 @@
 		name: "ferile",
 		data-segment: "FER24059502394",
 		data-brief: 12,
-		url: "/"
+		url: "/",
+		backup: true
 	},
 	ref: 234
 }
